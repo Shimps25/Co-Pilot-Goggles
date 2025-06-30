@@ -1,6 +1,7 @@
 # 👓 Co-Pilot: Smart Vision-Assistance Goggles for the Visually Impaired
 
 **Co-Pilot** is a wearable smart goggle system that empowers visually impaired individuals to navigate their environment confidently and independently. It integrates computer vision, deep learning, and real-time audio guidance into a thoughtfully engineered and ergonomically designed headset.
+![image](https://github.com/user-attachments/assets/2cf551bf-9231-4309-beae-80a9e1f92763)
 
 ---
 
@@ -43,12 +44,13 @@ The Co-Pilot headset was engineered with a focus on **form and function**:
 
 | Front View | Top View | Side View |
 |------------|----------|-----------|
-| ![Front](![image](https://github.com/user-attachments/assets/fbff9a04-f8a1-4df6-a1c8-85d2d666c81f)) | ![Top](![image](https://github.com/user-attachments/assets/6be74598-f947-4fc1-b2d0-ee13fa08b51f)) | ![Side](![image](https://github.com/user-attachments/assets/f5a962c6-77f6-4927-bae1-561d25c765f1)) |
+| !(![image](https://github.com/user-attachments/assets/fbff9a04-f8a1-4df6-a1c8-85d2d666c81f)) | !(![image](https://github.com/user-attachments/assets/6be74598-f947-4fc1-b2d0-ee13fa08b51f)) | !(![image](https://github.com/user-attachments/assets/f5a962c6-77f6-4927-bae1-561d25c765f1)) |
 
 
 ---
 
 ## ⚙️ Hardware Architecture
+![image](https://github.com/user-attachments/assets/2d5d0e53-56b7-42f0-a7cf-64f25d564fa1)
 
 - **Processing Unit**: Raspberry Pi 4
 - **Sensor Suite**: Radar sensor, DHT11 for humidity/temp, camera module
