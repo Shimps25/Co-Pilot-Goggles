@@ -1,7 +1,7 @@
 # 👓 Co-Pilot: Smart Vision-Assistance Goggles for the Visually Impaired
 
 **Co-Pilot** is a wearable smart goggle system that empowers visually impaired individuals to navigate their environment confidently and independently. It integrates computer vision, deep learning, and real-time audio guidance into a thoughtfully engineered and ergonomically designed headset.
-![image](https://github.com/user-attachments/assets/0cb91ea8-08a5-47e0-9e9f-6687f15f94f4)
+  ![image](https://github.com/user-attachments/assets/0cb91ea8-08a5-47e0-9e9f-6687f15f94f4)
 
 
 ---
@@ -51,15 +51,15 @@ The Co-Pilot headset was engineered with a focus on **form and function**:
 ---
 
 ## ⚙️ Hardware Architecture
-![image](https://github.com/user-attachments/assets/2d5d0e53-56b7-42f0-a7cf-64f25d564fa1)
-![image](https://github.com/user-attachments/assets/68583c56-f72b-49d1-9b58-e80ea8f35bbb)
+  ![image](https://github.com/user-attachments/assets/2d5d0e53-56b7-42f0-a7cf-64f25d564fa1)
+  ![image](https://github.com/user-attachments/assets/68583c56-f72b-49d1-9b58-e80ea8f35bbb)
 
 - **Processing Unit**: Raspberry Pi 4
-- ![image](https://github.com/user-attachments/assets/3d8aaa76-fdb4-4738-88eb-4474d4e1a257)
+  ![image](https://github.com/user-attachments/assets/3d8aaa76-fdb4-4738-88eb-4474d4e1a257)
 
 - **Sensor Suite**: Radar sensor, DHT11 for humidity/temp, camera module
 - **Audio**: Compact speakers embedded in headset arms
-- ![image](https://github.com/user-attachments/assets/19d24693-10ae-4724-99b4-3060d34d628e)
+  ![image](https://github.com/user-attachments/assets/19d24693-10ae-4724-99b4-3060d34d628e)
 
 - **Power**: Rechargeable Li-ion battery
 - **Connectivity**: ESP32 for data transmission to cloud
