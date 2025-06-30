@@ -44,7 +44,7 @@ The Co-Pilot headset was engineered with a focus on **form and function**:
 
 | Front View | Top View | Side View |
 |------------|----------|-----------|
-| !(![image](https://github.com/user-attachments/assets/fbff9a04-f8a1-4df6-a1c8-85d2d666c81f)) | !(![image](https://github.com/user-attachments/assets/6be74598-f947-4fc1-b2d0-ee13fa08b51f)) | !(![image](https://github.com/user-attachments/assets/f5a962c6-77f6-4927-bae1-561d25c765f1)) |
+|![image](https://github.com/user-attachments/assets/fbff9a04-f8a1-4df6-a1c8-85d2d666c81f) | ![image](https://github.com/user-attachments/assets/6be74598-f947-4fc1-b2d0-ee13fa08b51f)| ![image](https://github.com/user-attachments/assets/f5a962c6-77f6-4927-bae1-561d25c765f1) |
 
 
 ---
